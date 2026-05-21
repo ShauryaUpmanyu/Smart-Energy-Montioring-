@@ -2,21 +2,21 @@
 
 **Overview**
 
-  This project presents a real-time smart energy monitoring and protection system developed using Arduino UNO, ESP8266 Wi-Fi module, GSM900A module, LDR-based pulse sensing, relay protection, and ThingSpeak IoT platform.
-  
-  The system is designed to detect:\
-      - Electricity Theft \
-      - Overload Conditions\
-      - Combined Theft + Overload Conditions\
-    using dual-meter pulse comparison and embedded decision-making logic.
-  
-  The proposed system provides:\
-    - Real-time monitoring\
-    - Automatic fault detection\
-    - Relay-based power protection\
-    - GSM alert generation\
-    - IoT cloud monitoring\
-    - Automatic fault recovery mechanism
+    This project presents a real-time smart energy monitoring and protection system developed using Arduino UNO, ESP8266 Wi-Fi module, GSM900A module, LDR-based pulse sensing, relay protection, and ThingSpeak IoT platform.
+    
+    The system is designed to detect:\
+        - Electricity Theft \
+        - Overload Conditions\
+        - Combined Theft + Overload Conditions\
+      using dual-meter pulse comparison and embedded decision-making logic.
+    
+    The proposed system provides:\
+      - Real-time monitoring\
+      - Automatic fault detection\
+      - Relay-based power protection\
+      - GSM alert generation\
+      - IoT cloud monitoring\
+      - Automatic fault recovery mechanism
 
   **Features** 
   
@@ -39,6 +39,7 @@
         - THEFT + OVERLOAD\
 
   **Technologies Used**
+  
     **Hardware**
       - Arduino UNO\
       - ESP8266 Wi-Fi Module\
@@ -56,6 +57,7 @@
       - ThingSpeak IoT Platform\
 
   **Applications**
+  
     - Residential energy monitoring\
     - Small commercial monitoring\
     - Smart home systems\
@@ -63,10 +65,15 @@
     - IoT Integration with Embedded Systems\
 
   **Author**
+  
     Developed as a Project in the domain of:\
       - Embedded Systems\
       - IoT\
       - Dual Point Monitoring\
+
+  **License**
+      
+      This project is developed for educational and research purposes.
 
   **License**
       This project is developed for educational and research purposes.
