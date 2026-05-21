@@ -5,12 +5,10 @@
   This project presents a real-time smart energy monitoring and protection system developed using Arduino UNO, ESP8266 Wi-Fi module, GSM900A module, LDR-based pulse sensing, relay protection, and ThingSpeak IoT platform.
   
   The system is designed to detect:
-  
-  Electricity Theft
-  Overload Conditions
-  Combined Theft + Overload Conditions
-  
-  using dual-meter pulse comparison and embedded decision-making logic.
+      - Electricity Theft
+      - Overload Conditions
+      - Combined Theft + Overload Conditions
+    using dual-meter pulse comparison and embedded decision-making logic.
   
   The proposed system provides:
     - Real-time monitoring
@@ -51,7 +49,6 @@
       - Buzzer
       - Voltage Divider Circuit
       - Power Supply Circuit
-
     **Software**
       - Arduino IDE
       - Embedded C/C++
