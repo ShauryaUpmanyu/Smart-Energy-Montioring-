@@ -7,10 +7,10 @@
   The system is designed to detect:\
       - Electricity Theft \
       - Overload Conditions
-      - Combined Theft + Overload Conditions
+      - Combined Theft + Overload Conditions\
     using dual-meter pulse comparison and embedded decision-making logic.
   
-  The proposed system provides:
+  The proposed system provides:\
     - Real-time monitoring
     - Automatic fault detection
     - Relay-based power protection
