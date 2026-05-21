@@ -19,6 +19,7 @@
     - Automatic fault recovery mechanism
 
   **Features** 
+  
     - Dual-meter energy monitoring architecture\
     - LDR-based non-intrusive pulse sensing\
     - Real-time theft detection using pulse comparison\
