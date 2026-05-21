@@ -41,6 +41,7 @@
   **Technologies Used**
 
 **Hardware**
+
     - Arduino UNO\
     - ESP8266 Wi-Fi Module\
     - GSM900A Module\
@@ -53,9 +54,10 @@
     - Power Supply Circuit\
       
 **Software**
-  - Arduino IDE\
-  - Embedded C/C++\
-  - ThingSpeak IoT Platform\
+
+    - Arduino IDE\
+    - Embedded C/C++\
+    - ThingSpeak IoT Platform\
 
   **Applications**
   
