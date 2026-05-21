@@ -39,22 +39,23 @@
         - THEFT + OVERLOAD\
 
   **Technologies Used**
-  
-    **Hardware**
-      - Arduino UNO\
-      - ESP8266 Wi-Fi Module\
-      - GSM900A Module\
-      - 16x2 LCD Display\
-      - Relay Module\
-      - LDR Sensors\
-      - Single Phase Energy Meters\
-      - Buzzer\
-      - Voltage Divider Circuit\
-      - Power Supply Circuit\
-    **Software**
-      - Arduino IDE\
-      - Embedded C/C++\
-      - ThingSpeak IoT Platform\
+
+**Hardware**
+    - Arduino UNO\
+    - ESP8266 Wi-Fi Module\
+    - GSM900A Module\
+    - 16x2 LCD Display\
+    - Relay Module\
+    - LDR Sensors\
+    - Single Phase Energy Meters\
+    - Buzzer\
+    - Voltage Divider Circuit\
+    - Power Supply Circuit\
+      
+**Software**
+  - Arduino IDE\
+  - Embedded C/C++\
+  - ThingSpeak IoT Platform\
 
   **Applications**
   
