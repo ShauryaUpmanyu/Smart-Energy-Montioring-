@@ -77,6 +77,3 @@
   **License**
       
       This project is developed for educational and research purposes.
-
-  **License**
-      This project is developed for educational and research purposes.
