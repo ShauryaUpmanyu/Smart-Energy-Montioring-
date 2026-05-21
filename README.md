@@ -6,66 +6,66 @@
   
   The system is designed to detect:\
       - Electricity Theft \
-      - Overload Conditions
+      - Overload Conditions\
       - Combined Theft + Overload Conditions\
     using dual-meter pulse comparison and embedded decision-making logic.
   
   The proposed system provides:\
-    - Real-time monitoring
-    - Automatic fault detection
-    - Relay-based power protection
-    - GSM alert generation
-    - IoT cloud monitoring
+    - Real-time monitoring\
+    - Automatic fault detection\
+    - Relay-based power protection\
+    - GSM alert generation\
+    - IoT cloud monitoring\
     - Automatic fault recovery mechanism
 
-  **Features**
-    - Dual-meter energy monitoring architecture
-    - LDR-based non-intrusive pulse sensing
-    - Real-time theft detection using pulse comparison
-    - Count-based overload detection
-    - Time-based overload detection
-    - Hybrid overload detection
-    - GSM-based SMS alert system
-    - ThingSpeak cloud monitoring
-    - Relay-based automatic power disconnection
-    - Buzzer-based fault indication
-    - LCD-based local monitoring
-    - Automatic fault recovery mechanism
-    - Four system operating states:
-        - NORMAL
-        - THEFT
-        - OVERLOAD
-        - THEFT + OVERLOAD
+  **Features** 
+    - Dual-meter energy monitoring architecture\
+    - LDR-based non-intrusive pulse sensing\
+    - Real-time theft detection using pulse comparison\
+    - Count-based overload detection\
+    - Time-based overload detection\
+    - Hybrid overload detection\
+    - GSM-based SMS alert system\
+    - ThingSpeak cloud monitoring\
+    - Relay-based automatic power disconnection\
+    - Buzzer-based fault indication\
+    - LCD-based local monitorin\
+    - Automatic fault recovery mechanism\
+    - Four system operating states:\
+        - NORMAL\
+        - THEFT\
+        - OVERLOAD\
+        - THEFT + OVERLOAD\
 
   **Technologies Used**
     **Hardware**
-      - Arduino UNO
-      - ESP8266 Wi-Fi Module
-      - GSM900A Module
-      - 16x2 LCD Display
-      - Relay Module
-      - LDR Sensors
-      - Single Phase Energy Meters
-      - Buzzer
-      - Voltage Divider Circuit
-      - Power Supply Circuit
+      - Arduino UNO\
+      - ESP8266 Wi-Fi Module\
+      - GSM900A Module\
+      - 16x2 LCD Display\
+      - Relay Module\
+      - LDR Sensors\
+      - Single Phase Energy Meters\
+      - Buzzer\
+      - Voltage Divider Circuit\
+      - Power Supply Circuit\
     **Software**
-      - Arduino IDE
-      - Embedded C/C++
-      - ThingSpeak IoT Platform
+      - Arduino IDE\
+      - Embedded C/C++\
+      - ThingSpeak IoT Platform\
 
   **Applications**
-    - Residential energy monitoring
-    - Small commercial monitoring
-    - Smart home systems
-    - Embedded energy management systems
-    - IoT Integration with Embedded Systems
+    - Residential energy monitoring\
+    - Small commercial monitoring\
+    - Smart home systems\
+    - Embedded energy management systems\
+    - IoT Integration with Embedded Systems\
 
   **Author**
-    Developed as a Project in the domain of:
-      - Embedded Systems
-      - IoT
-      - Dual Point Monitoring
+    Developed as a Project in the domain of:\
+      - Embedded Systems\
+      - IoT\
+      - Dual Point Monitoring\
 
   **License**
       This project is developed for educational and research purposes.
